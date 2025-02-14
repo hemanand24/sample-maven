@@ -18,6 +18,6 @@
       <target>11</target>    
     </configuration>
   </plugin>
- <plugins>
+ </plugins>
 </build>
 </project>
