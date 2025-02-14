@@ -8,6 +8,7 @@
   <maven.compiler.target>11</maven.compiler.target>  
 </properties>  
 <build>  
+ <plugins> 
   <plugin>    
     <groupId>org.apache.maven.plugins</groupId>    
     <artifactId>maven-compiler-plugin</artifactId>    
@@ -16,6 +17,7 @@
       <source>11</source>    
       <target>11</target>    
     </configuration>
-  </plugin>  
+  </plugin>
+ <plugins>
 </build>
 </project>
